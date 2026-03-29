@@ -1,10 +1,31 @@
 <div align="center">
-<img width="25%" align="right" src="https://github.com/user-attachments/assets/629a06e7-a164-40c6-9a63-b867ca120ac7" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi+I'm+0xprune" width="65%" />
-<br><br>
-<pre>
 
-</pre>
-<br>
-<img height="40" alt="image" src="https://github.com/user-attachments/assets/1a4af1cc-6dd0-4db6-8112-a9f4d4b09418" />
+  <img
+    src="https://avatars.githubusercontent.com/u/72267785?v=4"
+    width="120"
+    alt="0xprune"
+  />
+
+  <br><br>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=F8FAFC&center=true&vCenter=true&width=920&lines=0xprune;Building+onchain+systems%2C+crypto+tools%2C+and+vibecoded+products"
+    alt="Typing SVG"
+  />
+
+  <br><br>
+
+  <samp>
+    agentic infrastructure / defi automation / trading workflows<br>
+    shipping high-conviction products across crypto and blockchain
+  </samp>
+
+  <br><br>
+
+  <p>
+    <img src="https://img.shields.io/badge/onchain%20systems-111827?style=flat-square&color=E5E7EB" />
+    <img src="https://img.shields.io/badge/crypto%20tools-111827?style=flat-square&color=E5E7EB" />
+    <img src="https://img.shields.io/badge/vibecoded%20products-111827?style=flat-square&color=E5E7EB" />
+  </p>
+
 </div>
