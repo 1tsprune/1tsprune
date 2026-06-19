@@ -1,31 +1,23 @@
 <div align="center">
-
-  <img
-    src="https://avatars.githubusercontent.com/u/72267785?v=4"
-    width="120"
-    alt="0xprune"
-  />
-
-  <br><br>
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=F8FAFC&center=true&vCenter=true&width=920&lines=0xprune;Building+onchain+systems%2C+crypto+tools%2C+and+vibecoded+products"
-    alt="Typing SVG"
-  />
-
+  <img src="https://avatars.githubusercontent.com/u/72267785?v=4" width="120" alt="1tsprune" />
   <br><br>
 
   <samp>
-    agentic infrastructure / defi automation / trading workflows<br>
-    shipping high-conviction products across crypto and blockchain
+    <strong>1tsprune</strong> — cybersecurity specialist<br>
+    offensive security · red teaming · SIEM/SOC · detection engineering<br>
+    building open-source security tools and sharing unfiltered takes
   </samp>
 
   <br><br>
 
-  <p>
-    <img src="https://img.shields.io/badge/onchain%20systems-111827?style=flat-square&color=E5E7EB" />
-    <img src="https://img.shields.io/badge/crypto%20tools-111827?style=flat-square&color=E5E7EB" />
-    <img src="https://img.shields.io/badge/vibecoded%20products-111827?style=flat-square&color=E5E7EB" />
-  </p>
+  <a href="https://www.1tsprune.com"><img src="https://img.shields.io/badge/portfolio-1tsprune.com-d8b57a?style=flat-square" /></a>
+  <a href="https://x.com/itsprune"><img src="https://img.shields.io/badge/X-@itsprune-1DA1F2?style=flat-square" /></a>
+  <a href="https://linkedin.com/in/eky-januarta-aaa3a61aa"><img src="https://img.shields.io/badge/LinkedIn-Eky%20Januarta-0A66C2?style=flat-square" /></a>
 
+  <br><br>
+
+  <img src="https://img.shields.io/badge/pentesting-111827?style=flat-square&color=E5E7EB" />
+  <img src="https://img.shields.io/badge/SIEM/SOC-111827?style=flat-square&color=E5E7EB" />
+  <img src="https://img.shields.io/badge/red%20team-111827?style=flat-square&color=E5E7EB" />
+  <img src="https://img.shields.io/badge/open%20source-111827?style=flat-square&color=E5E7EB" />
 </div>
