@@ -1,94 +1,140 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/72267785?v=4" width="120" alt="1tsprune" />
-  <br><br>
+  <a href="https://1tsprune.com">
+    <img src="https://github.com/1tsprune.png" width="112" alt="Eky Januarta" />
+  </a>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=F8FAFC&center=true&vCenter=true&width=700&lines=1tsprune;offensive+security+%7C+SIEM/SOC;web3+%7C+onchain+systems;building+%26+breaking+stuff" alt="Typing SVG" />
+  <h1>Eky Januarta</h1>
+  <p><strong>Security Engineer · Penetration Tester · Malware Researcher</strong></p>
 
-  <br><br>
-
-  <samp>
-    cybersecurity specialist + web3 builder from indonesia<br>
-    pentesting · red teaming · SIEM · open-source SOC<br>
-    onchain systems · crypto tools · automation
-  </samp>
-
-  <br><br>
-
-  <img src="https://img.shields.io/badge/security-111827?style=flat-square&color=E5E7EB" />
-  <img src="https://img.shields.io/badge/SIEM/SOC-111827?style=flat-square&color=E5E7EB" />
-  <img src="https://img.shields.io/badge/web3-111827?style=flat-square&color=E5E7EB" />
-  <img src="https://img.shields.io/badge/open%20source-111827?style=flat-square&color=E5E7EB" />
+  <p>
+    <a href="https://1tsprune.com"><img src="https://img.shields.io/badge/Portfolio-1tsprune.com-0f172a?style=flat-square" alt="Portfolio" /></a>
+    <a href="mailto:ekyjanuarta@outlook.com"><img src="https://img.shields.io/badge/Email-ekyjanuarta%40outlook.com-0f172a?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=1tsprune&label=Profile%20views&color=0f172a&style=flat-square" alt="Profile views" />
+  </p>
 </div>
 
-<br>
+```yaml
+name: Eky Januarta
+handle: 1tsprune
+based_in: Indonesia
+
+focus:
+  offensive_security:
+    - Web, API, and network penetration testing
+    - Vulnerability assessment and management
+    - Security architecture review
+  defensive_security:
+    - SIEM and SOC operations
+    - Incident response and threat analysis
+    - Detection, endpoint, and network security
+  research:
+    - Malware analysis and reverse engineering
+    - Web3 security and phishing prevention
+    - Security automation with Python and Bash
+
+currently:
+  - Providing independent VAPT and security consulting
+  - Building practical security tooling and research
+  - Contributing to security and Web3 communities
+```
+
+## Profile
+
+I am a security engineer and penetration tester with hands-on experience across VAPT, SIEM/SOC operations, incident response, and security architecture. My work combines an offensive mindset with defensive execution: finding exploitable weaknesses, translating them into business risk, and helping teams implement practical remediation.
+
+I have built enterprise monitoring for **200+ endpoints**, managed SIEM operations across multi-client environments, and delivered security assessments that reduced critical findings by more than half within the first quarter per client. I am also a published malware researcher in **MISI Vol. 9 (2026)**.
+
+## Selected Experience
+
+| Role | Organization | Focus |
+| --- | --- | --- |
+| Freelance Penetration Tester & Security Consultant | Independent | Web, API, and network VAPT; architecture review; incident response; Web3 risk |
+| Security Engineer | PT Merdeka Copper Gold | Security operations architecture, endpoint coverage, monitoring, and governance for 200+ endpoints |
+| Security Engineer | NOOSC Security Global | Multi-client SIEM/SOC, security architecture, VAPT, and remediation roadmaps |
+| Security Analyst Intern | PT Metrodata Electronics Tbk | Incident triage, SIEM/IDS analysis, penetration testing, and network hardening |
+| Cybersecurity Engineer Intern | Dinas Kominfo KSB | Government SIEM deployment, website VAPT, and security awareness programs |
+
+## Security Practice
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Offensive Security</h3>
+      <ul>
+        <li>Web and API penetration testing</li>
+        <li>Network security assessment</li>
+        <li>Vulnerability validation and exploitation</li>
+        <li>OWASP-based testing and reporting</li>
+        <li>Attack-path and business-impact analysis</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Defensive Security</h3>
+      <ul>
+        <li>SIEM deployment and operations</li>
+        <li>Alert triage and incident response</li>
+        <li>EDR, NDR, XDR, and SOAR workflows</li>
+        <li>Network segmentation and IDS/IPS</li>
+        <li>Threat intelligence and forensics</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## Tools & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nuclei-111827?style=flat-square" alt="Nuclei" />
+  <img src="https://img.shields.io/badge/Nmap-111827?style=flat-square" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-111827?style=flat-square&logo=metasploit" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white" alt="Elastic Stack" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
+</p>
+
+`OWASP` · `MITRE ATT&CK` · `NIST` · `OSINT` · `Threat Intelligence` · `Reverse Engineering` · `Digital Forensics` · `Vulnerability Management`
+
+## Certifications
+
+- **Certified Ethical Hacker (CEH)** — EC-Council
+- **EC-Council Certified Incident Handler (ECIH)**
+- **Certified Network Defender (CND)** — EC-Council
+- **Certified AppSec Practitioner (CAP)**
+- **Certified Network Security Practitioner (CNSP)**
+- **Cybersecurity Awareness Professional**
+- **Alibaba Cloud Associate: Cloud Security**
+- **BNSP Network Designer**
+
+## Let's Connect
+
+<table>
+  <tr>
+    <td valign="middle" width="42%">
+      Open to conversations about security engineering, penetration testing, malware research, and practical security tooling.
+      <br><br>
+      <a href="mailto:ekyjanuarta@outlook.com"><strong>Email</strong></a> · <a href="https://1tsprune.com"><strong>Portfolio</strong></a>
+    </td>
+    <td width="58%">
+      <img src="./assets/key.gif" width="100%" alt="Animated hands typing on a keyboard" />
+    </td>
+  </tr>
+</table>
+
+## GitHub Activity
 
 <div align="center">
-
-### tech stack
-
+  <img src="https://github-readme-stats.vercel.app/api?username=1tsprune&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="Eky's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tsprune&layout=compact&hide_border=true&theme=transparent&hide=jupyter%20notebook" height="165" alt="Most used languages" />
 </div>
 
-<div align="center">
-  <sub>offensive security</sub><br><br>
-  <img src="https://img.shields.io/badge/Burp_Suite-111827?style=flat-square&logo=burpsuite&logoColor=E5E7EB" />
-  <img src="https://img.shields.io/badge/Nmap-111827?style=flat-square&logo=nmap&logoColor=E5E7EB" />
-  <img src="https://img.shields.io/badge/Metasploit-111827?style=flat-square&logo=metasploit&logoColor=E5E7EB" />
-  <img src="https://img.shields.io/badge/Wireshark-111827?style=flat-square&logo=wireshark&logoColor=E5E7EB" />
-  <img src="https://img.shields.io/badge/Kali_Linux-111827?style=flat-square&logo=kalilinux&logoColor=E5E7EB" />
-</div>
-
-<br>
+---
 
 <div align="center">
-  <sub>SIEM / SOC</sub><br><br>
-  <img src="https://img.shields.io/badge/Splunk-111827?style=flat-square&logo=splunk&logoColor=E5E7EB" />
-  <img src="https://img.shields.io/badge/Elastic-111827?style=flat-square&logo=elastic&logoColor=E5E7EB" />
-  <img src="https://img.shields.io/badge/Wazuh-111827?style=flat-square&color=E5E7EB" />
-  <img src="https://img.shields.io/badge/Suricata-111827?style=flat-square&color=E5E7EB" />
-  <img src="https://img.shields.io/badge/Grafana-111827?style=flat-square&logo=grafana&logoColor=E5E7EB" />
-</div>
-
-<br>
-
-<div align="center">
-  <sub>web3 / onchain</sub><br><br>
-  <img src="https://img.shields.io/badge/Solidity-111827?style=flat-square&logo=solidity&logoColor=E5E7EB" />
-  <img src="https://img.shields.io/badge/Ethereum-111827?style=flat-square&logo=ethereum&logoColor=E5E7EB" />
-  <img src="https://img.shields.io/badge/Hardhat-111827?style=flat-square&color=E5E7EB" />
-  <img src="https://img.shields.io/badge/Foundry-111827?style=flat-square&color=E5E7EB" />
-  <img src="https://img.shields.io/badge/Ethers.js-111827?style=flat-square&color=E5E7EB" />
-</div>
-
-<br>
-
-<div align="center">
-  <sub>languages & tools</sub><br><br>
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=E5E7EB" />
-  <img src="https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash&logoColor=E5E7EB" />
-  <img src="https://img.shields.io/badge/Go-111827?style=flat-square&logo=go&logoColor=E5E7EB" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=E5E7EB" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=E5E7EB" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=E5E7EB" />
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=E5E7EB" />
-</div>
-
-<br><br>
-
-<div align="center">
-
-### stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=1tsprune&show_icons=true&hide_border=true&bg_color=111827&title_color=F8FAFC&text_color=E5E7EB&icon_color=E5E7EB&hide_title=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tsprune&layout=compact&hide_border=true&bg_color=111827&title_color=F8FAFC&text_color=E5E7EB&hide=jupyter%20notebook" width="35%" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=1tsprune&hide_border=true&background=111827&stroke=111827&ring=E5E7EB&fire=E5E7EB&currStreakLabel=E5E7EB&sideLabels=E5E7EB&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=6B7280" width="60%" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <sub>building &amp; breaking things, one commit at a time</sub>
+  <samp>Build defensively. Test offensively. Communicate risk clearly.</samp>
 </div>
