@@ -1,4 +1,15 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readmebox.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./readmebox.svg" />
+    <img src="./readmebox.svg" alt="readmebox banner" />
+  </picture>
+</div>
+
+<div align="center">
+  <a href="https://1tsprune.com">
+    <img src="https://github.com/1tsprune.png" width="112" alt="Eky Januarta" />
+  </a>
   <h1>Eky Januarta</h1>
   <p><strong>Security Engineer · Penetration Tester · Malware Researcher</strong></p>
 
