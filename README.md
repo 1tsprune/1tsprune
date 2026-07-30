@@ -44,58 +44,48 @@ I am a security engineer and penetration tester with hands-on experience across 
 
 I have built enterprise monitoring for **200+ endpoints**, managed SIEM operations across multi-client environments, and delivered security assessments that reduced critical findings by more than half within the first quarter per client. I am also a published malware researcher in **MISI Vol. 9 (2026)**.
 
-## Selected Experience
+## 🛠️ Tools of the Trade
 
-| Role | Organization | Focus |
-| --- | --- | --- |
-| Freelance Penetration Tester & Security Consultant | Independent | Web, API, and network VAPT; architecture review; incident response; Web3 risk |
-| Security Engineer | PT Merdeka Copper Gold | Security operations architecture, endpoint coverage, monitoring, and governance for 200+ endpoints |
-| Security Engineer | NOOSC Security Global | Multi-client SIEM/SOC, security architecture, VAPT, and remediation roadmaps |
-| Security Analyst Intern | PT Metrodata Electronics Tbk | Incident triage, SIEM/IDS analysis, penetration testing, and network hardening |
-| Cybersecurity Engineer Intern | Dinas Kominfo KSB | Government SIEM deployment, website VAPT, and security awareness programs |
+### Offensive (Red)
 
-## Security Practice
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Offensive Security</h3>
-      <ul>
-        <li>Web and API penetration testing</li>
-        <li>Network security assessment</li>
-        <li>Vulnerability validation and exploitation</li>
-        <li>OWASP-based testing and reporting</li>
-        <li>Attack-path and business-impact analysis</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Defensive Security</h3>
-      <ul>
-        <li>SIEM deployment and operations</li>
-        <li>Alert triage and incident response</li>
-        <li>EDR, NDR, XDR, and SOAR workflows</li>
-        <li>Network segmentation and IDS/IPS</li>
-        <li>Threat intelligence and forensics</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## Tools & Frameworks
-
-<p>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Nuclei-111827?style=flat-square" alt="Nuclei" />
-  <img src="https://img.shields.io/badge/Nmap-111827?style=flat-square" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Metasploit-111827?style=flat-square&logo=metasploit" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-00416A?style=flat-square" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-2C2C2C?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/SQLmap-CC0000?style=flat-square" alt="SQLmap" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=zaproxy&logoColor=white" alt="OWASP ZAP" />
+  <img src="https://img.shields.io/badge/BloodHound-D62429?style=flat-square" alt="BloodHound" />
+  <img src="https://img.shields.io/badge/Hydra-1F2937?style=flat-square" alt="Hydra" />
+  <img src="https://img.shields.io/badge/Hashcat-111827?style=flat-square" alt="Hashcat" />
+</p>
+
+### Defensive (Blue)
+
+<p align="left">
   <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white" alt="Wazuh" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk" />
-  <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white" alt="Elastic Stack" />
+  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white" alt="Elastic Stack" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/EDR-0F172A?style=flat-square" alt="EDR" />
+  <img src="https://img.shields.io/badge/NDR-0F172A?style=flat-square" alt="NDR" />
+  <img src="https://img.shields.io/badge/XDR-0F172A?style=flat-square" alt="XDR" />
+  <img src="https://img.shields.io/badge/SOAR-0F172A?style=flat-square" alt="SOAR" />
+  <img src="https://img.shields.io/badge/Firewall-B91C1C?style=flat-square" alt="Firewall" />
+  <img src="https://img.shields.io/badge/IDS%2FIPS-1D4ED8?style=flat-square" alt="IDS and IPS" />
+</p>
+
+### Infrastructure & Automation
+
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 `OWASP` · `MITRE ATT&CK` · `NIST` · `OSINT` · `Threat Intelligence` · `Reverse Engineering` · `Digital Forensics` · `Vulnerability Management`
@@ -126,12 +116,24 @@ I have built enterprise monitoring for **200+ endpoints**, managed SIEM operatio
   </tr>
 </table>
 
-## GitHub Activity
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1tsprune&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="Eky's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tsprune&layout=compact&hide_border=true&theme=transparent&hide=jupyter%20notebook" height="165" alt="Most used languages" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=1tsprune&show_icons=true&theme=tokyonight&hide_border=true" alt="Eky's GitHub statistics" />
+    </td>
+    <td>
+      <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=1tsprune&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Most used languages" />
+    </td>
+  </tr>
+</table>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1tsprune&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="1tsprune activity graph" />
+</p>
 
 ---
 
